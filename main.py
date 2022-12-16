@@ -45,3 +45,4 @@ if VOICE:
 #         user_input = input("You: ")
 #         type_command = chat_module(user_input)
 #         print(f'Каталина: {bot_answer(type_command, logic.smalltalk(user_input))}')
+
