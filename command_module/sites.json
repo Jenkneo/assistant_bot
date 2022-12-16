@@ -1,0 +1,22 @@
+{
+  "Google": {
+    "ru_name": ["сайт гугл", "сайт гугла"],
+    "url": "https://google.com"
+  },
+  "VK": {
+    "ru_name": ["вконтакте"],
+    "url": "https://vk.com"
+  },
+  "YouTube": {
+    "ru_name": ["ютуб","ютьюб"],
+    "url": "https://youtube.com"
+  },
+  "Instagram": {
+    "ru_name": ["инстаграм","инста"],
+    "url": "https://instagram.com/"
+  },
+  "Yandex": {
+    "ru_name": ["сайт яндекс", "сайт яндекса"],
+    "url": "https://yandex.ru/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "keywords": [
+    ""
+  ],
+  "messages": [
+    ""
+  ],
+  "answers": [
+    "Выполняю."
+  ],
+  "commands": "command_open",
+  "cmd":  null,
+  "dialog": false
+}

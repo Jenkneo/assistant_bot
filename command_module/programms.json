@@ -1,0 +1,51 @@
+{
+  "Default_browser #NOT_USE":{
+    "ru_name" : [],
+    "is_system_app": true,
+    "executable_name": null,
+    "place" : null,
+    "cmd" : "start https://google.com"
+  },
+  "Telegram":{
+    "ru_name" : ["телеграм", "телеграмм"],
+    "is_system_app": false,
+    "executable_name": "Telegram.exe",
+    "place" : "C:\\Users\\%username%\\AppData\\Roaming\\Telegram Desktop",
+    "cmd" : "start \"\" \"C:\\Users\\%username%\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe\""
+  },
+  "Chrome": {
+    "ru_name" : ["хром"],
+    "is_system_app": false,
+    "executable_name": "chrome.exe",
+    "place" : "C:\\Program Files\\Google\\Chrome\\Application",
+    "cmd" : "start chrome"
+  },
+  "calc": {
+    "ru_name" : ["калькулятор"],
+    "is_system_app": true,
+    "executable_name": "calc.exe",
+    "place" : null,
+    "cmd" : "start calc"
+  },
+  "mspaint": {
+    "ru_name" : ["пэйнт", "пэйн"],
+    "is_system_app": true,
+    "executable_name": "mspaint.exe",
+    "place" : null,
+    "cmd" : "start mspaint"
+  },
+  "Yandex": {
+    "ru_name" : ["яндекс браузер"],
+    "is_system_app": false,
+    "executable_name": "browser.exe",
+    "place" : "C:\\Users\\jenkn\\AppData\\Local\\Yandex\\YandexBrowser\\Application",
+    "cmd" : "start \"\" \"C:\\Users\\jenkn\\AppData\\Local\\Yandex\\YandexBrowser\\Application\\browser.exe\""
+  },
+  "Discord #NOT_SUPPORTED_RECOGNIZER": {
+    "ru_name" : ["дискорд"],
+    "is_system_app": false,
+    "executable_name": "Update.exe",
+    "place" : "C:\\Users\\%username%\\AppData\\Local\\Discord",
+    "cmd" : "start \"\" \"C:\\Users\\%username%\\AppData\\Local\\Discord\\Update.exe\""
+  }
+}
