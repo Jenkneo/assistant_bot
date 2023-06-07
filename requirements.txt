@@ -3,4 +3,4 @@ fuzzywuzzy==0.18.0
 vosk==0.3.45
 playsound==1.2.2
 sounddevice==0.4.5
-numpy=1.23.5
+numpy==1.23.5
